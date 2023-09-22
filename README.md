@@ -7,9 +7,6 @@
 
 - 📫 Reach me **jakub.kaczocha@gmail.com**
 
-- 🐰 Inerested in evolution strategies and physical activity
-
-
 
 <h3 align="center">Tools</h3>
 
